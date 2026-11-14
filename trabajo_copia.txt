@@ -1,0 +1,7 @@
+REPORTE DE SIMILITUD
+============================================================
+Umbral de sospecha: 77%
+
+trabajo_original.txt <-> trabajo_copia.txt: 76.5%  [normal]
+
+Sin grupos.
